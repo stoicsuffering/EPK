@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.f3d3f3c8.js",
+    "main.css": "/static/css/main.0cf6e613.css",
+    "main.js": "/static/js/main.3f3d536c.js",
     "static/js/787.9d3ce9d3.chunk.js": "/static/js/787.9d3ce9d3.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/bg3.png": "/static/media/bg3.61ec4d912d39c6607f2d.png",
+    "static/media/bg2.png": "/static/media/bg2.ce03fb326ebf257e9c9e.png",
+    "static/media/Spectral-Bold.ttf": "/static/media/Spectral-Bold.79f938afd3444ee07b82.ttf",
+    "static/media/Spectral-Regular.ttf": "/static/media/Spectral-Regular.d42b6921428e94a0c610.ttf",
+    "static/media/SourceSerifPro-Bold.ttf": "/static/media/SourceSerifPro-Bold.4e034fc18058dc3f4d21.ttf",
+    "static/media/SourceSerifPro-Regular.ttf": "/static/media/SourceSerifPro-Regular.a43f8192fdd94b8968c6.ttf",
+    "static/media/PressStart2P-Regular.ttf": "/static/media/PressStart2P-Regular.c4f6a3d49cd1dd4f5ca8.ttf",
+    "static/media/live-pic.jpeg": "/static/media/live-pic.086b57aab985e5d012ad.jpeg",
+    "static/media/ig.png": "/static/media/ig.c001292417c68d8d53ab.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.f3d3f3c8.js.map": "/static/js/main.f3d3f3c8.js.map",
+    "main.0cf6e613.css.map": "/static/css/main.0cf6e613.css.map",
+    "main.3f3d536c.js.map": "/static/js/main.3f3d536c.js.map",
     "787.9d3ce9d3.chunk.js.map": "/static/js/787.9d3ce9d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f3d3f3c8.js"
+    "static/css/main.0cf6e613.css",
+    "static/js/main.3f3d536c.js"
   ]
 }
